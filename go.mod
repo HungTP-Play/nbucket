@@ -1,3 +1,3 @@
 module github.com/HungTP-Play/nbucket
 
-go 1.20
+go 1.19

@@ -13,3 +13,7 @@ We have built-in `storage drivers` for `local driver`, `redis driver`, `memcache
 `nbucket` is policy based, you can create multiple policies with different configurations.
 
 We also have built-in `limiter` and `throttler` policies, you can also create your own policy by implementing the `Policy` interface.
+
+## Requirements
+
+- Go 1.19 or higher
